@@ -1,7 +1,7 @@
 # Simulasi Gerak Partikel dan Antipartikel dalam Medan Elektromagnetik
 
 Proyek ini merupakan hasil skripsi berjudul **"Simulasi Partikel dan Antipartikel dalam Medan Elektromagnetik dengan Metode Runge-Kutta"** oleh **Dian Wardana**, Universitas Negeri Medan (2024).
-
+ini adalah projek pertama saya
 ## 📌 Fitur Utama
 
 - Simulasi gerak partikel dalam medan listrik dan magnet (E dan B)
